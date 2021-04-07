@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.BigAsteroids">
+    <module_version install_time="1617740143351" last="true" origin="installer" specification_version="1.0">
+        <file crc="2449693028" name="config/Modules/dk-sdu-mmmi-cbse-BigAsteroids.xml"/>
+        <file crc="573567711" name="modules/dk-sdu-mmmi-cbse-BigAsteroids.jar"/>
+    </module_version>
+</module>
